@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PorteCaseStudy
+/packages
+/PorteCaseStudy/bin
+/PorteCaseStudy/obj
+/PorteCaseStudy.Common/bin
+/PorteCaseStudy.Common/obj
+/PorteCaseStudy.Data/bin
+/PorteCaseStudy.Data/obj
+/PorteCaseStudy.Service/bin
+/PorteCaseStudy.Service/obj
+/PorteCaseStudy.Test/bin
+/PorteCaseStudy.Test/obj
